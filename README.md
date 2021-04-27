@@ -2,8 +2,8 @@
 * A non-profit network for research and education purposes.
 
 ## Acknowledgments
-* [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting cofiguration and JP transit
-* [STUIX](https://stuix.io/): Providing domestic exchanges
+* [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting cofiguration and APAC transit
+* [STUIX](https://stuix.io/): Providing TW domestic exchanges
 
 ## Remark Links
 * [PeeringDB](https://www.peeringdb.com/asn/211622/)  
