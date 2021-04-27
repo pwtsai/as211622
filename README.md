@@ -3,6 +3,7 @@
 
 ## Acknowledgments
 * [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting configuration and APAC transit
+* [iFog GmbH](https://ifog.ch/en/) (AS): Supporting EU transit
 * [STUIX](https://stuix.io/): Providing TW domestic exchanges
 
 ## Remark Links
