@@ -1,5 +1,5 @@
 ## About AS211622, please kindly find this [page](https://network.pwtsai.im).
-* A non-profit network for research and education purposes.
+* A non-profit network for personal hobby and academic purposes.
 
 ## Acknowledgments
 * [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting configuration and APAC transit
