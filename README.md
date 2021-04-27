@@ -14,7 +14,7 @@ Please feel free to contact for peering discussion!
 
 ## Location
 * Available nodes are now located in 
-  + Germany(DE) - 4b42IX, OpenSwitch-IX, PyramIX
+  + Germany(DE) - 4b42IX, OpenSwitch-IX, PyramIX, LL-IX, EVIX, IX42-SG
   + Taiwan(TW) - STUIX, OceanIX
   + Malaysia(MY)
 * Japan(JP) and HongKong(HK) nodes are planned in furutre work.
