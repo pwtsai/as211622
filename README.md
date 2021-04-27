@@ -1,6 +1,4 @@
-#### About AS211622, please kindly find this [page](https://network.pwtsai.im).
-
-## About AS211622
+## About AS211622, please kindly find this [page](https://network.pwtsai.im).
 * A non-profit network for research and education purposes.
 
 ## Peering Policy
