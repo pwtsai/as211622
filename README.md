@@ -2,7 +2,7 @@
 * A non-profit network for research and education purposes.
 
 ## Acknowledgments
-* [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting cofiguration and APAC transit
+* [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting configuration and APAC transit
 * [STUIX](https://stuix.io/): Providing TW domestic exchanges
 
 ## Remark Links
