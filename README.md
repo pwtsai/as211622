@@ -4,6 +4,7 @@
 ## Acknowledgments
 * [iFog GmbH](https://ifog.ch/en/) (AS34927): LIR service
 * [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): Supporting configuration & APAC transit
+* [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP Resource
 
 ## Remark Links
 * [PeeringDB](https://www.peeringdb.com/asn/211622/)  
