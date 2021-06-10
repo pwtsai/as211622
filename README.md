@@ -1,4 +1,4 @@
-## About AS211622, please kindly find this [page](https://network.pwtsai.im).
+## About AS211622, please kindly find this [page](https://as211622.pwtsai.im).
 * A non-profit network for personal hobby and academic purposes.
 
 ## Acknowledgments
