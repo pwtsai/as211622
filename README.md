@@ -4,7 +4,7 @@
 
 ## Acknowledgments
 * [iFog GmbH](https://ifog.ch/en/) (AS34927): LIR service
-* [Tsung-Yi Yu](https://network.steveyi.net/) (AS60614): APAC/EU transit and IP resource
+* [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and IP resource
 * [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP resource
 * [freetransit.net](https://freetransit.net) (AS212895): EU transit
 
