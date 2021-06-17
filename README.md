@@ -1,4 +1,4 @@
-## About PWTSAI Network (AS211622), please kindly find this [page](https://as211622.pwtsai.im).
+## About PWTSAI Network (AS211622), please kindly find this [page](http://as211622.pwtsai.im).
 * RIPE::AS-PWTSAI
 * A non-profit network for personal hobby and academic purposes.
 
