@@ -10,6 +10,6 @@
 * [freetransit.net](https://freetransit.net) (AS212895): EU transit
 
 ## Remark Links
-* [PeeringDB](https://www.peeringdb.com/asn/211622/)  
+* [PeeringDB](https://as211622.peeringdb.com/)  
 * [HE.NET](https://bgp.he.net/AS211622)  
 
