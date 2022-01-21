@@ -7,7 +7,6 @@
 * [T.-Y. Yu](https://network.steveyi.net/) (AS60614): IP resource and transit
 * [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP resource
 * [TUNNELBROKER.CH](https://www.tunnelbroker.ch/) (AS58057): IP resource and transit
-* [freetransit.net](https://freetransit.net) (AS212895): Transit
 * [Netassist Limited](https://netassist.ua/) (AS29632): Transit
 
 ## Remark Links
