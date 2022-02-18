@@ -55,7 +55,7 @@ ripestat('asn-neighbours/data.json', 'resource=AS211622', rslt => {
 	document.getElementById('last_update_transit_cust').innerText = new Date(`${rslt.data.latest_time}Z`).toLocaleString();
 	
 	
-	list_transit_cust.innerHTML = '';
+	//list_transit_cust.innerHTML = '';
 	list_transit_peer.innerHTML = '';
 	list_transit.innerHTML = '';
 
